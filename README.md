@@ -2,10 +2,10 @@
 
 **Full-stack Data Scientist / ML Engineer**
     
-💻 Experienced in using machine learning and analytics for business decisions. Currently focusing on NLP, Forecasting and GenerativeAI.
-💼 Previously at BCG X, Danone
-🎓 Master in Data Sciences & Busines Analytics @ CentraleSupélec x ESSEC Business School
-📍 Based in Paris, France
+💻 Experienced in using machine learning and analytics for business decisions. Currently focusing on NLP, Forecasting and GenerativeAI<br/>
+💼 Previously at BCG X, Danone<br/>
+🎓 Master in Data Sciences & Busines Analytics @ CentraleSupélec x ESSEC Business School<br/>
+📍 Based in Paris, France<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elrichmiranda-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/elrichmiranda/)
 [![GitHub](https://img.shields.io/badge/GitHub-elmiranda00-black?style=flat-square&logo=github)](https://github.com/elmiranda00)
