@@ -45,54 +45,43 @@ Extracts time-bound events from a photo of a shift planning monthly calendar and
 
 <div align="left">
 
-**Languages & Core**
+**Languages, Tools & Core Libraries**
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark" />
 <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" />
 <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy" />
-<img src="https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas" />
+<img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" />
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-<img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter" />
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
+<img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi" />
 <img src="https://img.shields.io/badge/-VBA-black?style=flat-square&logo=visualbasic" />
 
-**ML & AI**
+
+**Machine Learning & AI**
 <img src="https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikitlearn" />
 <img src="https://img.shields.io/badge/-XGBoost-black?style=flat-square" />
+<img src="https://img.shields.io/badge/-Prophet-black?style=flat-square" />
+<img src="https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow" />
 <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" />
+<img src="https://img.shields.io/badge/-Transformers-black?style=flat-square" />
 <img src="https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface" />
 <img src="https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain" />
 <img src="https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=langchain" />
-<img src="https://img.shields.io/badge/-statsmodels-black?style=flat-square" />
-<img src="https://img.shields.io/badge/-Prophet-black?style=flat-square" />
 <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv" />
 
 **Data & Infrastructure**
-<img src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark" />
+
 <img src="https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=databricks" />
-<img src="https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow" />
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
-<img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi" />
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
 <img src="https://img.shields.io/badge/-Alteryx-black?style=flat-square&logo=alteryx" />
 
-**Visualization & BI**
+**Data Visualization**
 <img src="https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi" />
 <img src="https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau" />
 <img src="https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit" />
 <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square" />
-<img src="https://img.shields.io/badge/-DAX-black?style=flat-square" />
 
 </div>
 
 ---
-
-![Elrich's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmiranda00&show_icons=true&hide_border=true&theme=graywhite)
-
----
-
-## Get in touch
-
-Open to conversations about forecasting, applied GenAI, and anything where machine learning has to survive a real business process. English (native) and French (advanced working proficiency).
-
-[REDACTED](mailto:REDACTED) · [LinkedIn](https://www.linkedin.com/in/elrichmiranda/)
-
 
