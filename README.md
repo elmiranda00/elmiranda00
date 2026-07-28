@@ -1,59 +1,43 @@
 ## Hi, I'm Elrich Miranda 👋
 
-**Data Scientist / ML Engineer**
-
-🎓 Master in Data Sciences & Busines Analytics @ [CentraleSupélec x ESSEC Business School]  
-🧠 Specializing in Generative AI, NLP, Bayesian Modeling, and Machine Learning  
-📍 Based in Chicago, IL  
-🔗 [LinkedIn](https://www.linkedin.com/in/abc) | 🌐 [GitHub](https://github.com/abc)
-**Data Scientist / ML Engineer** — Paris, France
-
-Machine learning and analytics for business decisions. Currently focused on forecasting, NLP, and applied GenAI.
+**Full-stack Data Scientist / ML Engineer**
+    
+💻 Experienced in using machine learning and analytics for business decisions. Currently focusing on NLP, Forecasting and GenerativeAI.
+💼 Previously at BCG X, Danone
+🎓 Master in Data Sciences & Busines Analytics @ CentraleSupélec x ESSEC Business School
+📍 Based in Paris, France
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elrichmiranda-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/elrichmiranda/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-elmiranda00-black?style=flat-square&logo=github)](https://github.com/elmiranda00)
-[![Email](https://img.shields.io/badge/Email-REDACTED-black?style=flat-square&logo=gmail)](mailto:REDACTED)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0882--2570-black?style=flat-square&logo=orcid)](https://orcid.org/0000-0003-0882-2570)
+
+[![Email](https://img.shields.io/badge/Email-REDACTED-black?style=flat-square&logo=gmail)](mailto:elrich.miranda@essec.edu)
 
 ---
 
-## About
+## About Me
 
-I build models that end up in someone's decision-making process — not just in a notebook. Three years across consulting, CPG, and insurance taught me that the hard part is rarely the algorithm; it's framing the question, getting the data pipeline to survive contact with reality, and packaging the output so a business team actually uses it.
+I build end-to-end ML pipelines, dashboards and automations that help businesses make decisions, uncover insights and improve operational efficiency. Having spent 3 years as a data professional across strategy consulting, consumer goods and insurance, I've learnt that the hardest part is never the algorithm but understanding the business, framing the question, building a reliable data pipeline that survives imperfect real-world data and packaging the output so that business teams actually use it.
 
-At **Danone**, on the Global Advanced Analytics team, I built forecasting models to measure marketing impact across 30+ products, then scaled the analysis to other markets with a Databricks pipeline (PySpark, MLflow) and a Power BI layer for brand teams.
+At **Danone** (Paris, FR), I built forecasting models to measure product renovation impact for a yoghurt brand, connected the outputs to an interactive PowerBI dashboard for brand teams, then industrialized the code into a Databricks pipeline to scale the analysis to other markets in the future (PySpark, MLflow)
 
-Before that, two years at **BCG X** in Bangalore, working across sovereign wealth funds, retail banking, industrial pricing, and public housing programs — portfolio automation, customer segmentation, demand forecasting, ETL. Promoted from junior to analyst in 20 months.
-
-I hold a **Master in Data Sciences & Business Analytics** from CentraleSupélec & ESSEC, with a specialization in finance, and a B.Tech in Mechanical Engineering from NIT Calicut.
-
-Outside of work I mostly build things that solve small, annoying problems — see below.
+I spent two years at **BCG X** (Bangalore, IN) I worked with clients across banking, asset management, retail and government/public sector on projects covering customer segmentation, demand forecasting, portfolio management, process automation and dashboarding.
 
 ---
 
-## Selected Projects
+## Portfolio Highlights
 
-### [shift2cal](https://github.com/elmiranda00/shift2cal) — Screenshot to calendar
-Extracts time-bound events from a photo of a work-shift planner and returns an `.ics` file. Computer vision for layout parsing, an LLM for the messy bits, wrapped in FastAPI and Docker.
-`OpenCV` · `LLM` · `FastAPI` · `Docker`
+### [Medical NLP: Clinical Decision Extraction](https://github.com/elmiranda00/med-decision-extraction)
+NLP and Transformer-based extraction and classification of medical decision spans from hospital discharge summaries.
+`Transformers` · `NLP` · `PyTorch` · `Electra` · `seq2seq`
 
-### [med-decision-extraction](https://github.com/elmiranda00/med-decision-extraction) — Clinical decision spans
-Transformer-based extraction and classification of medical decision spans from hospital discharge summaries, replicating and extending Elgar et al. (2024).
-`Transformers` · `NLP` · `PyTorch`
-
-### Bank Document RAG Chatbot — Corrective retrieval over personal finance docs
-A corrective-RAG chatbot for querying banking statements and documents, with intelligent routing between retrieval paths using LangGraph.
-`LangGraph` · `RAG` · `LangChain`
-
-### [recommendation-engine-11](https://github.com/elmiranda00/recommendation-engine-11) — Hackathon, 2nd place
-Product recommendation engine combining purchase-history signals with an optimization layer for stock constraints. Built in a team over a weekend.
+### [Product Recommendation Engine](https://github.com/elmiranda00/recommendation-engine-11)
+Product recommendation engine based on purchase-history signals with an optimization layer to consider stock constraints
 `XGBoost` · `Optimization`
 
-### [fin-sentiment-analysis](https://github.com/elmiranda00/fin-sentiment-analysis) — Financial news sentiment
-LSTM and BERT models benchmarked on sentiment classification of financial news headlines.
-`BERT` · `LSTM` · `Transformers`
-
-Also: [CycleGAN](https://github.com/elmiranda00/CycleGAN) — an implementation from scratch, mostly to understand the architecture properly.
+### [Calendar Planning Extraction via a Screenshot](https://github.com/elmiranda00/shift2cal)
+Extracts time-bound events from a photo of a shift planning monthly calendar and returns an `.ics` file. Computer vision for layout parsing, app wrapped in FastAPI and Docker.
+`OpenCV` · `FastAPI` · `Docker`
 
 ---
 
