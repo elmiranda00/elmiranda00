@@ -68,7 +68,6 @@ Extracts time-bound events from a photo of a shift planning monthly calendar and
 <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv" />
 
 **Data & Infrastructure**
-
 <img src="https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=databricks" />
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
 <img src="https://img.shields.io/badge/-Alteryx-black?style=flat-square&logo=alteryx" />
