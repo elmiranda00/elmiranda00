@@ -15,7 +15,7 @@
 
 ## About Me
 
-I build end-to-end ML pipelines, dashboards and automations that help businesses make decisions, uncover insights and improve operational efficiency. Having spent 3 years as a data professional across strategy consulting, consumer goods and insurance, I've learnt that the hardest part is never the algorithm but understanding the business, framing the question, building a reliable data pipeline that survives imperfect real-world data and packaging the output so that business teams actually use it.
+I build end-to-end ML pipelines, dashboards and automations that help businesses make decisions, uncover insights and improve operational efficiency. My experience as a data professional across strategy consulting, consumer goods and insurance has taught me that the hardest part is never the algorithm but understanding the business, framing the question, building a reliable data pipeline that survives imperfect real-world data and packaging the output so that business teams actually use it.
 
 At **Danone** (Paris, FR), I built forecasting models to measure product renovation impact for a yoghurt brand, connected the outputs to an interactive PowerBI dashboard for brand teams, then industrialized the code into a Databricks pipeline to scale the analysis to other markets in the future (PySpark, MLflow)
 
