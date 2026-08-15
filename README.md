@@ -2,7 +2,7 @@
 
 **Full-stack Data Scientist / ML Engineer**
     
-💻 Experienced in using ML/analytics for business decisions. Current areas of interest: on NLP and GenerativeAI<br/>
+💻 Experienced in using ML/analytics for business decisions. Current areas of interest: NLP and GenerativeAI<br/>
 💼 Previously at BCG X, Danone<br/>
 🎓 Master in Data Sciences & Busines Analytics @ CentraleSupélec x ESSEC Business School<br/>
 📍 Based in Paris, France<br/>
