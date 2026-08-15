@@ -33,7 +33,7 @@ NLP and Transformer-based extraction and classification of medical decision span
 Product recommendation engine based on purchase-history signals with an optimization layer to consider stock constraints
 `XGBoost` · `Optimization`
 
-### [Calendar Planning Extraction via a Screenshot](https://github.com/elmiranda00/shift2cal)
+### [Calendar OCR](https://github.com/elmiranda00/shift2cal)
 Extracts time-bound events from a photo of a shift planning monthly calendar and returns an `.ics` file. Computer vision for layout parsing, app wrapped in FastAPI and Docker.
 `OpenCV` · `FastAPI` · `Docker`
 
