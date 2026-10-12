@@ -47,6 +47,7 @@ Extracts time-bound events from a photo of a shift planning monthly calendar and
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apachespark" />
 <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" />
+<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
 <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy" />
 <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" />
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
@@ -69,6 +70,8 @@ Extracts time-bound events from a photo of a shift planning monthly calendar and
 
 **Data & Infrastructure**
 <img src="https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=databricks" />
+<img src="https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud" />
+<img src="https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform" />
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
 <img src="https://img.shields.io/badge/-Alteryx-black?style=flat-square&logo=alteryx" />
 
