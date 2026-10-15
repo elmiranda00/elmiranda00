@@ -25,7 +25,7 @@ Product recommendation engine based on purchase-history signals with an optimiza
 
 ### [Rice detection in the Mekong Delta](https://github.com/elmiranda00/where-is-my-rice)
 Rice vs non-rice map of Vietnam's Mekong Delta at 10 m resolution, classified with an SVM from Sentinel-1 radar time series. Batch inference on Google Cloud.
-`Sentinel-1 SAR` · `scikit-learn` · `Google Cloud` · `Terraform` · `MapLibre`
+`Geospatial ML` · `Sentinel-1 SAR` · `scikit-learn` · `Google Cloud` · `Terraform` · `MapLibre`
 
 ### [Calendar OCR](https://github.com/elmiranda00/shift2cal)
 Extracts time-bound events from a photo of a shift planning monthly calendar and returns an `.ics` file. Computer vision for layout parsing, app wrapped in FastAPI and Docker.
