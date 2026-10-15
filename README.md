@@ -13,16 +13,6 @@
 
 ---
 
-## About Me
-
-I build end-to-end ML pipelines, dashboards and automations that help businesses make decisions, uncover insights and improve operational efficiency. 
-
-At **Danone** (Paris, FR), I built forecasting models to measure product renovation impact for a yoghurt brand, connected the outputs to an interactive PowerBI dashboard for brand teams, then industrialized the code into a Databricks pipeline to scale the analysis to other markets in the future (PySpark, MLflow)
-
-I spent two years at **BCG X** (Bangalore, IN) I worked with clients across banking, asset management, retail and government/public sector on projects covering customer segmentation, demand forecasting, portfolio management, process automation and dashboarding.
-
----
-
 ## Portfolio Highlights
 
 ### [Medical NLP: Clinical Decision Extraction](https://github.com/elmiranda00/med-decision-extraction)
