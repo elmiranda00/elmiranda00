@@ -23,7 +23,7 @@ NLP and Transformer-based extraction and classification of medical decision span
 Product recommendation engine based on purchase-history signals with an optimization layer to consider stock constraints
 `XGBoost` · `Optimization`
 
-### [Rice detection in the Mekong Delta](https://github.com/elmiranda00/where-is-my-rice)
+### [Rice detection using Satellite Data](https://github.com/elmiranda00/where-is-my-rice)
 Rice vs non-rice map of Vietnam's Mekong Delta at 10 m resolution, classified with an SVM from Sentinel-1 radar time series. Batch inference on Google Cloud.
 `Geospatial ML` · `Sentinel-1 SAR` · `scikit-learn` · `Google Cloud` · `Terraform` · `MapLibre`
 
