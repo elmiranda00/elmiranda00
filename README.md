@@ -19,13 +19,13 @@
 NLP and Transformer-based extraction and classification of medical decision spans from hospital discharge summaries.
 `Transformers` · `NLP` · `PyTorch` · `Electra` · `seq2seq`
 
-### [Product Recommendation Engine](https://github.com/elmiranda00/recommendation-engine-11)
-Product recommendation engine based on purchase-history signals with an optimization layer to consider stock constraints
-`XGBoost` · `Optimization`
-
 ### [Rice detection using Satellite Data](https://github.com/elmiranda00/where-is-my-rice)
 Rice vs non-rice map of Vietnam's Mekong Delta at 10 m resolution, classified with an SVM from Sentinel-1 radar time series. Batch inference on Google Cloud.
 `Geospatial ML` · `Sentinel-1 SAR` · `scikit-learn` · `Google Cloud` · `Terraform` · `MapLibre`
+
+### [Product Recommendation Engine](https://github.com/elmiranda00/recommendation-engine-11)
+Product recommendation engine based on purchase-history signals with an optimization layer to consider stock constraints
+`XGBoost` · `Optimization`
 
 ### [Calendar OCR](https://github.com/elmiranda00/shift2cal)
 Extracts time-bound events from a photo of a shift planning monthly calendar and returns an `.ics` file. Computer vision for layout parsing, app wrapped in FastAPI and Docker.
