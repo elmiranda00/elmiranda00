@@ -15,23 +15,19 @@
 
 ## Portfolio Highlights
 
-**[Lingua Camera: Tap-to-Translate OCR](https://github.com/elmiranda00/lingua-camera)**: Web app to photograph multi-lingual text (fr/zh), tap a word and get its in-context English meaning. OCR works on device keeping photos on the phone, and an LLM on Cloudflare handles lookups. <br>
+**[Lingua Camera: Tap-to-Translate OCR](https://github.com/elmiranda00/lingua-camera)** : Web app to photograph multi-lingual text (fr/zh), tap a word and get its in-context English meaning (On-device OCR, LLM on Cloudflare) <br>
 `PaddleOCR` · `ONNX Runtime` · `OpenCV` · `Web Workers` · `Cloudflare Workers AI` · `React` · `TypeScript` · `TypeScript` · `Qwen3`
 
-### [Medical NLP: Clinical Decision Extraction](https://github.com/elmiranda00/med-decision-extraction)
-NLP and Transformer-based extraction and classification of medical decision spans from hospital discharge summaries.
+**[Medical NLP: Clinical Decision Extraction](https://github.com/elmiranda00/med-decision-extraction)** : NLP and Transformer-based extraction and classification of medical decision spans from hospital discharge summaries. <br>
 `Transformers` · `NLP` · `PyTorch` · `Electra` · `seq2seq`
 
-### [Rice detection using Satellite Data](https://github.com/elmiranda00/where-is-my-rice)
-Rice vs non-rice map of Vietnam's Mekong Delta at 10 m resolution, classified with an SVM from Sentinel-1 radar time series. Batch inference on Google Cloud.
+**[Rice detection using Satellite Data](https://github.com/elmiranda00/where-is-my-rice)** : Rice vs non-rice map of Vietnam's Mekong Delta at 10 m resolution, classified with an SVM from Sentinel-1 radar time series. Batch inference on Google Cloud. <br>
 `Geospatial ML` · `Sentinel-1 SAR` · `scikit-learn` · `Google Cloud` · `Terraform` · `MapLibre`
 
-### [Product Recommendation Engine](https://github.com/elmiranda00/recommendation-engine-11)
-Product recommendation engine based on purchase-history signals with an optimization layer to consider stock constraints
+**[Product Recommendation Engine](https://github.com/elmiranda00/recommendation-engine-11)** : Product recommendation engine based on purchase-history signals with an optimization layer to consider stock constraints <br>
 `XGBoost` · `Optimization`
 
-### [Calendar OCR](https://github.com/elmiranda00/shift2cal)
-Extracts time-bound events from a photo of a shift planning monthly calendar and returns an `.ics` file. Computer vision for layout parsing, app wrapped in FastAPI and Docker.
+**[Calendar OCR](https://github.com/elmiranda00/shift2cal)** : Extracts time-bound events from a photo of a shift planning monthly calendar and returns an `.ics` file. Computer vision for layout parsing, app wrapped in FastAPI and Docker. <br>
 `OpenCV` · `FastAPI` · `Docker`
 
 ---
