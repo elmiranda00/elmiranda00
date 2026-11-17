@@ -15,6 +15,10 @@
 
 ## Portfolio Highlights
 
+### [Lingua Camera: Tap-to-Translate OCR](https://github.com/elmiranda00/lingua-camera)
+Web app to photograph multi-lingual text (fr/zh), tap a word and get its in-context English meaning. OCR works on device keeping photos on the phone, and an LLM on Cloudflare handles lookups.
+`PaddleOCR` · `ONNX Runtime` · `OpenCV` · `Web Workers` · `Cloudflare Workers AI` · `React` · `TypeScript` · `TypeScript` · `Qwen3`
+
 ### [Medical NLP: Clinical Decision Extraction](https://github.com/elmiranda00/med-decision-extraction)
 NLP and Transformer-based extraction and classification of medical decision spans from hospital discharge summaries.
 `Transformers` · `NLP` · `PyTorch` · `Electra` · `seq2seq`
